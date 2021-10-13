@@ -1,3 +1,3 @@
-module github.com/essie-chiang/go-kube
+module github.com/essie-chiang/gokube
 
 go 1.16
